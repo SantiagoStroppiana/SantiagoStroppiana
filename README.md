@@ -4,7 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   
-"👨‍💻 Final year Systems Analyst student with a keen interest in both frontend and backend development. Currently working with a team on SIAJ Inventories, a Java-based inventory management system. Passionate about learning new technologies and aiming to specialize in Data Science. Always excited to take on new challenges and expand my knowledge! 🚀"
+"Recently graduated Systems Analyst with experience in desktop (JavaFX) and web (React) application development, as well as backend development with Java and Javalin. Co-leader of the SIAJ Inventories project, a comprehensive stock management and point-of-sale system, where I participated in the design and implementation of inventory modules, user management, and the creation of modern interfaces. Passionate about transforming problems into efficient technological solutions through software analysis, UML modeling, and MVC and DAO architecture patterns."
 
 <h2> My tech stack </h2>
 
